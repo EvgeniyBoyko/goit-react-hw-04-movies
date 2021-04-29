@@ -1,0 +1,21 @@
+.transactionHistory {
+  width: 600px;
+  margin: 20px auto 0 auto;
+  text-align: center;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.theadItem {
+  padding: 10px;
+  background-color: rgba(127, 255, 212, 0.596);
+}
+
+.thItem,
+.tdItem {
+  padding: 10px 30px;
+  background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+  border-bottom: 1px solid grey;
+  color: #506a6b;
+  font-size: 20px;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 5px;
+}
